@@ -1,0 +1,11 @@
+[project]
+name = "injury-classifier"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=2.30.0",
+    "pandas>=3.0.2",
+    "pydantic>=2.12.5",
+]
